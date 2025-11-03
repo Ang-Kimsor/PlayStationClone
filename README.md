@@ -151,7 +151,7 @@ Contributions are welcome! Feel free to fork the repo, create feature branches, 
 
 **Ang Kimsor** - [Telegram](https://t.me/Thirtieth_October) - [angkimsor@gmail.com](mailto:angkimsor@gmail.com) - **Call Me ☎️ +855 87 932 289**
 
-Project Link: [https://github.com/Ang-Kimsor/PlayStationClone](Source Code)
+Project Link: [https://github.com/Ang-Kimsor/PlayStationClone ](https://github.com/Ang-Kimsor/PlayStationClone)
 
 <p id="acknowledgments">
 </p>
